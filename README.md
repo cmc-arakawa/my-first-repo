@@ -1,3 +1,3 @@
 # my-first-repo
 更新
-new-feature
+no-fast-forward
